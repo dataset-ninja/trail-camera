@@ -1,6 +1,6 @@
 Dataset **Trail Camera** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/C/D/Kq/jBilnIvW348wBML6XffPU7ScUYcDCxlXzu63PrJHwAhyw3x9QQwEv22kc3727HJYHS31mkCYibI8FtOWj9akQwndGcOo0Eo7gLvNXA5ihRs5OtCJp9SUhWxBfGID.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/C/D/Kq/jBilnIvW348wBML6XffPU7ScUYcDCxlXzu63PrJHwAhyw3x9QQwEv22kc3727HJYHS31mkCYibI8FtOWj9akQwndGcOo0Eo7gLvNXA5ihRs5OtCJp9SUhWxBfGID.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
